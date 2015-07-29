@@ -1,7 +1,4 @@
----
-  tags: tutorial, lab ,TDD, beginner
-  languages: objc
----
+
 
 # Objc-TDDFizzBuzz
 
